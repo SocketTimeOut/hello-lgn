@@ -1,4 +1,3 @@
-
 *://www.right.com.cn/*
 *://ivr.baidu.com/*
 *://v.baidu.com/*
@@ -69,19 +68,19 @@
 *://*.xinsheng.net/*
 *://*.zhengjian.org/*
 *://*.zhuichaguoji.org/*
-*://*.a.baidu.com,屏蔽网站/*
+*://*.a.baidu.com/*
 *://*.adm.baidu.com/*
 *://*.als.baidu.com/*
 *://*.api.youqian.baidu/*
-*://*.as.baidu.com,/*
-*://*.ashifen.com,屏蔽网站/*
-*://*.baidustatic.com,屏蔽网站/*
+*://*.as.baidu.com/*
+*://*.ashifen.com/*
+*://*.baidustatic.com/*
 *://*.baidutv.baidu.com/*
 *://*.baikebcs.bdimg.com/*
 *://*.bar.baidu.com/*
 *://*.bdimg.share.baidu/*
 *://*.boscdn.bpc.baidu/*
-*://*.c.baidu.com,屏蔽网站/*
+*://*.c.baidu.com/*
 *://*.cbjs.baidu.com/*
 *://*.cjhq.baidu.com/*
 *://*.cpro.baidu.com/*
@@ -89,7 +88,7 @@
 *://*.cpro.zhidao.baidu/*
 *://*.dcps.nuomi.com/*
 *://*.drmcmm.baidu.com/*
-*://*.e.baidu.com,屏蔽网站/*
+*://*.e.baidu.com/*
 *://*.eiv.baidu.com/*
 *://*.feed.baidu.com/*
 *://*.focusbaiduafp.allyes.com/*
@@ -107,7 +106,7 @@
 *://*.mobads-logs.baidu/*
 *://*.mobads.baidu.com/*
 *://*.nsclick.baidu.com/*
-*://*.qchannel01.cn,屏蔽网站/*
+*://*.qchannel01.cn/*
 *://*.rj.baidu.com,/*
 *://*.shifen.com,屏蔽网站/*
 *://*.spcode.baidu.com/*
