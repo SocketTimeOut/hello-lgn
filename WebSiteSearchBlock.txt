@@ -242,3 +242,23 @@
 title/小.(百科|知识)网/
 title/.* - 小.(百科|知识)网/
 *://www.pianshen.com/*
+*://blog.yqxpro.com/*
+*://www.4k8k.xyz/*
+*://www.lzbxgmjj.com/*
+*://www.cxybb.com/*
+*://www.cxymm.net/*
+*://www.yxlchbz.com/*
+*://www.zhangshengrong.com/*
+*://www.e7890.cn/*
+*://www.javashuo.com/*
+*://www.yisu.com/*
+*://pianshen.com/*
+*://www.its404.com/*
+*://cxyzjd.com/*
+*://www.i4k.xyz/*
+*://haokuaisou.cc/*
+*://blog.qiaohewei.cc/*
+*://whereube.com/*
+*://codeleading.com/*
+*://159.138.37.243/*
+*://itindex.net/*
