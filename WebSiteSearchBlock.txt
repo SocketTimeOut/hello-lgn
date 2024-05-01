@@ -1,4 +1,3 @@
-*://www.right.com.cn/*
 *://ivr.baidu.com/*
 *://v.baidu.com/*
 *://t.baidu.com/*
@@ -262,3 +261,16 @@ title/.* - 小.(百科|知识)网/
 *://codeleading.com/*
 *://159.138.37.243/*
 *://itindex.net/*
+*://blog.csdn.net/*
+*://juejin.cn/*
+*://sites.google.com/*
+*://www.douyin.com/*
+*://consentdianchi.com/*
+*://miyajima-ropeway.info/*
+*://www.taobao.com/*
+*://www.sofreight.com/*
+*://www.bilibili.com/*
+*://baijiahao.baidu.com/*
+*://m.douyin.com/*
+*://jingyan.baidu.com/*
+*://m.3d66.com/*
